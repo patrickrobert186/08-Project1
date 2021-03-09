@@ -22,18 +22,27 @@ Project Deliverables:
 Datasets to be used: 
 1) CSV or xcel or numbers documents about 400 lines and 10 rows  
 2) map visualaztion (is this a data set) 
-3) GDP by country data 
+3) SKIP GDP by country data 
 4) raw material data, natural gas
 
 
 
 Tasks  
 1) Create data set manually 
-2) Find websites with GDP and natural gas data  
-3) create interface for each user to modify their customer data each month 4) create code that creates not data string within the data set for pricing for each month 
-5) Create code that parses the dataset by customer to create a customer specific price list in a nice format 
+2) Find websites with GDP (skip GDP) and natural gas data  
+3) TOO DIFFICULT:  create interface for each user to modify their customer data each month 4) create code that creates not data string within the data set for pricing for each month 
+4) Create code that parses the dataset by customer to create a customer specific price list in a nice format 
 6) create a different data set that combines the pricing dataset with other data to do corrleation and visualization  
 7) create code to do correlation of prices and changes in prices to raw material and GDP data 
 8) create visualation of out put of number 7 and visualization of the regional pricing using mapbox 
+
+Create a scenario:  Given Gas price data and we have customer prices as well.  Need to develop proof of concept.  Asked us to answer a series of questions
+Group analysis by states into region
+How do prices compare to historical averages in state? 
+How do prices compare to other states?
+How do prices compare to national averages?
+How do prices correlate to commercial gas prices locally? 
+How do prices correctate NatGas nationallly? 
+How do commercial gas prices, and weather, GDP drive actually prices?  
 
 
