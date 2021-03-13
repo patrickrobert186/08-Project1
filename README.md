@@ -22,8 +22,10 @@ Project Deliverables:
 Datasets to be used: 
 1) CSV or xcel or numbers documents about 400 lines and 10 rows  
 2) map visualaztion (is this a data set) 
-3) SKIP GDP by country data 
-4) raw material data, natural gas
+3) GDP by country data FRED from Fed Bank of St. Louis
+4) raw material data commerical gas prices, natural gas US Eneregy and Info Administration
+5) Bureau of Economic Analyis, US Dept of Commerce
+6) Historical Weather Data 
 
 
 
@@ -39,7 +41,7 @@ Tasks
 Create a scenario:  Given Gas price data and we have customer prices as well.  Need to develop proof of concept.  Asked us to answer a series of questions
 Group analysis by states into region
 How do prices compare to historical averages in state? 
-How do prices compare to other states?
+How do prices compare to other surrounding states?
 How do prices compare to national averages?
 How do prices correlate to commercial gas prices locally? 
 How do prices correctate NatGas nationallly? 
